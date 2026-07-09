@@ -30,7 +30,7 @@
 const hormaz = {
   role: "Full Stack Developer",
   location: "Mumbai, India 🇮🇳",
-  experience: "3+ Years",
+  experience: "4+ Years",
 
   building: [
     "AI Applications",
@@ -163,12 +163,7 @@ Redesigned the admin platform, built RBAC authentication, developed backend APIs
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=coderhormaz&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderhormaz&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=coderhormaz&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=coderhormaz&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
