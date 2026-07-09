@@ -1,27 +1,213 @@
-# 💫 About Me:
-# Hi there, I'm Hormaz Daruwala 👋<br><br>I'm a **Full Stack Developer, Web3 Engineer, and AI Builder** from Mumbai, India, passionate about building products that make emerging technologies accessible to everyone.<br><br>Over the last **3+ years**, I've built production-ready web applications, blockchain systems, and mobile apps using modern technologies like **Next.js, React, TypeScript, PostgreSQL, Solidity, and AI frameworks**. I enjoy taking ideas from concept to deployment—designing intuitive interfaces, building scalable backends, and integrating AI with blockchain to create real-world solutions.<br><br>My journey has taken me through **15+ hackathons**, including **ETH Mumbai**, **ETHGlobal New Delhi**, **ETHOnline**, and **Smart India Hackathon**. Along the way, I won an **ETH Mumbai bounty** for building a **Decentralised AI Agent Marketplace**, secured **🥇 1st Place** at the **Industrial Hackathon 2026**, and led my team to the **Smart India Hackathon 2024** selection.<br><br>Professionally, I've worked as a **Full Stack Developer at AISkool**, where I architected authentication systems, built backend APIs, and migrated production infrastructure from Supabase to a self-hosted PostgreSQL deployment. I also served as **IT Head at Techshala**, leading the development of a multi-module platform for student activities and administration.<br><br>Beyond hackathons and work, I enjoy building products like:<br><br>* 🤖 AI-powered blockchain applications<br>* ⛓️ AI agents with on-chain execution<br>* 💹 DeFi and Web3 infrastructure<br>* 📱 Mobile applications (including **Parsi Calendar**, published on Google Play)<br>* 🎨 Beautiful, high-performance user interfaces<br><br>## 🚀 Tech I Enjoy Working With<br><br>**Frontend:** Next.js, React, TypeScript, React Native, Expo, Tailwind CSS<br>**Backend:** PostgreSQL, Python, REST APIs, VPS, Nginx, Authentication<br>**Web3:** Solidity, Ethereum, Base, Smart Contracts, DeFi, EVM Chains<br>**AI:** Gemini, AI Agents, NLP, OpenCV, Pyth Oracle<br>**Design:** Figma, Framer, Three.js, GSAP<br><br>> I love building products that blend **AI, blockchain, and great user experience**—technology that's not only technically impressive but genuinely useful in everyday life.<br><br>Always learning. Always building. Always shipping. 🚀<br>
+<div align="center">
 
+# 👋 Hey, I'm Hormaz Daruwala
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hormaz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hormazdaruwala) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/coderhormaz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hormazdaruwala86@gmail.com) 
+### Full Stack Developer • AI Engineer • Web3 Builder
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=coderhormaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=coderhormaz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=coderhormaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Building intelligent software with AI, modern web technologies, and decentralized infrastructure.**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=coderhormaz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <a href="https://hormaz.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:hormazdaruwala86@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/hormazdaruwala">
+    <img src="https://img.shields.io/badge/LinkedIn-Hormaz_Daruwala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;ETH+Mumbai+Bounty+Winner;15%2B+Hackathons;Building+AI+Products;Turning+Ideas+Into+Reality"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=coderhormaz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=coderhormaz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+```ts
+const hormaz = {
+  role: "Full Stack Developer",
+  location: "Mumbai, India 🇮🇳",
+  experience: "3+ Years",
+
+  building: [
+    "AI Applications",
+    "AI Agents",
+    "Modern Web Apps",
+    "Developer Tools",
+    "Web3 Infrastructure"
+  ],
+
+  interests: [
+    "Artificial Intelligence",
+    "Product Engineering",
+    "Blockchain",
+    "UI/UX",
+    "Open Source"
+  ],
+
+  motto: "Build → Ship → Improve"
+}
+```
+
+I'm a full-stack developer passionate about building products that solve real problems. I enjoy taking ideas from concept to production by combining AI, scalable backend systems, intuitive interfaces, and modern engineering practices.
+
+---
+
+# 🏆 Highlights
+
+| 🏅 Achievement | Details |
+| :--- | :--- |
+| 🥇 Industrial Hackathon 2026 | 1st Place Winner |
+| 🏅 ETH Mumbai | Bounty Winner |
+| 🚀 Hackathons | 15+ Participated |
+| 👨‍💻 AISkool | Former Full Stack Developer |
+| 🎯 Techshala | Former IT Head |
+| 📱 Android | Published Developer |
+| 🌍 ETHGlobal | New Delhi Participant |
+| 💻 ETHOnline | StackFlow Builder |
+
+---
+
+# 🌟 Featured Projects
+
+### 🤖 Decentralised AI Agent Marketplace
+
+> **🏅 ETH Mumbai Bounty Winner**
+
+A decentralized marketplace where AI agents can be discovered, monetized, and accessed using on-chain micropayments.
+
+**Tech Stack**
+
+`Next.js` • `TypeScript` • `Base` • `USDC` • `ENS`
+
+---
+
+### 💳 StackFlow
+
+> **🌍 ETHOnline 2025**
+
+A Web3 fintech platform that reimagines crypto payments and investing through familiar payment experiences, smart portfolio management, and real-time market insights.
+
+**Tech Stack**
+
+`Next.js` • `TypeScript` • `Arbitrum` • `PYUSD` • `Pyth Network`
+
+---
+
+### 📈 AI DeFi Trading Assistant
+
+> **🌍 ETHGlobal New Delhi**
+
+An AI-powered trading assistant that enables users to interact with DeFi using natural language for portfolio management, swaps, and on-chain execution.
+
+**Tech Stack**
+
+`React` • `Gemini AI` • `Polygon` • `ethers.js`
+
+---
+
+### 🎓 AISkool Platform
+
+> **👨‍💻 Production Full Stack Development**
+
+Redesigned the admin platform, built RBAC authentication, developed backend APIs, and migrated production infrastructure from Supabase to self-hosted PostgreSQL.
+
+**Tech Stack**
+
+`Next.js` • `PostgreSQL` • `REST APIs` • `Nginx` • `VPS`
+
+---
+
+# 💻 Tech Stack
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,expo"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,python,postgres,express"/>
+</p>
+
+### 🤖 AI
+
+<p>
+<img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-EF4444?style=for-the-badge"/>
+</p>
+
+### ⛓️ Web3
+
+<p>
+<img src="https://skillicons.dev/icons?i=solidity"/>
+<img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DeFi-8247E5?style=for-the-badge"/>
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode,figma"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=coderhormaz&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderhormaz&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=coderhormaz&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderhormaz&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 AI Applications & AI Agents
+- ⚡ Full Stack SaaS
+- 🌐 Developer Tools
+- ⛓️ Web3 Infrastructure
+- 🚀 Open Source
+- 🎨 Product Design & UX
+
+---
+
+# 💭 Philosophy
+
+> **Great technology doesn't overwhelm users—it empowers them.**
+
+I enjoy building products where thoughtful design, intelligent software, and scalable engineering come together to solve meaningful problems.
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<a href="https://hormaz.vercel.app">🌐 Portfolio</a> •
+<a href="mailto:hormazdaruwala86@gmail.com">📧 Email</a> •
+<a href="https://linkedin.com/in/hormazdaruwala">💼 LinkedIn</a>
+
+<br><br>
+
+**⭐ Building products people love to use.**
+
+<img src="https://komarev.com/ghpvc/?username=coderhormaz&style=for-the-badge"/>
+
+</div>
