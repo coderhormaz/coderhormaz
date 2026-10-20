@@ -7,7 +7,7 @@
 **Building intelligent software with AI, modern web technologies, and decentralized infrastructure.**
 
 <p>
-  <a href="https://hormaz.vercel.app">
+  <a href="https://hormazdaruwala.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:hormazdaruwala86@gmail.com">
