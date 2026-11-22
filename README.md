@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;ETH+Mumbai+Bounty+Winner;15%2B+Hackathons;Building+AI+Products;Turning+Ideas+Into+Reality"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;ETH+Mumbai+Bounty+Winner;20%2B+Hackathons;Building+AI+Products;Turning+Ideas+Into+Reality"/>
 
 </div>
 
@@ -62,7 +62,7 @@ I'm a full-stack developer passionate about building products that solve real pr
 | :--- | :--- |
 | 🥇 Industrial Hackathon 2026 | 1st Place Winner |
 | 🏅 ETH Mumbai | Bounty Winner |
-| 🚀 Hackathons | 15+ Participated |
+| 🚀 Hackathons | 20+ Participated |
 | 👨‍💻 AISkool | Former Full Stack Developer |
 | 🎯 Techshala | Former IT Head |
 | 📱 Android | Published Developer |
